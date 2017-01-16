@@ -1,4 +1,1 @@
-rdb-fullstack
-=============
-
-Common code for the Relational Databases and Full Stack Fundamentals courses
+database_setup.py file which has a sqlalchemy configuration.
